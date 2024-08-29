@@ -49,9 +49,12 @@ p {
 }
 
 center {
-    font-family: "Sevillana", cursive;
-  font-weight: 600;
+    font-family: "Kalnia Glaze", serif;
+  font-optical-sizing: auto;
+  font-weight: 511;
   font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
 }
 
 /* Mobile-specific styles */
